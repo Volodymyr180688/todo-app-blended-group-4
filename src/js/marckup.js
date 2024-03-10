@@ -13,7 +13,7 @@ export const addAllTodo = (data) => {
 
 
 
-//*Зміна статусу кнопки в інтерфейсі !!!
+//*Зміна статусу кнопки в інтерфейсі !!! Yes
 
 // if (element.classList.contains('todo')) {
 //     element.classList.replace('todo', 'complete');
@@ -24,3 +24,5 @@ export const addAllTodo = (data) => {
 //     element.lastElementChild.remove();
 //     element.insertAdjacentHTML('beforeend', buttonUpdate);
 //   }
+
+
